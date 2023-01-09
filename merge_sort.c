@@ -1,3 +1,5 @@
+//Gand mar denge
+
 #include <stdio.h>
 #include <stdlib.h>
 
